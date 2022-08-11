@@ -1,0 +1,35 @@
+:root {
+  --clr-primary-100: #FF0000;
+  --clr-primary-200: #FF0202;
+  --clr-primary-400: #DC0B0B;
+
+  --clr-neutral-100: #ffffff; // white
+  --clr-neutral-200: #FBFBFB; // ash
+  --clr-neutral-300: #F8F8F8; // light gray
+  --clr-neutral-900: ;
+
+  --ff-primary: 'Roboto', sans-serif;
+
+  --ff-body: var(--ff-primary);
+  --ff-accent: var(--ff-primary);
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-bold: 700;
+  --fw-black: 900;
+
+  --fs-11: 0.6875rem; // 11px
+  --fs-12: 0.75rem;   // 12px
+  --fs-13: 0.8125rem; // 13px
+  --fs-14: 0.875rem   // 14px
+  --fs-15: 0.9375;    // 15px
+  --fs-16: 1rem;      // 16px
+  --fs-17: 1.0625rem; // 17px
+  --fs-20: 1.125rem;  // 20px
+  --fs-24: 1.5rem;    // 24px
+  --fs-28: 1.75rem;   // 28px
+  --fs-32: 2rem;      // 32px
+  --fs-36: 2.25rem;   // 36px
+  --fs-42: 2.625rem;  // 42px
+  --fs-62: 3.875rem;  // 62px
+}

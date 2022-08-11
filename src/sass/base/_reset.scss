@@ -20,7 +20,7 @@ ol[role='list'] {
 
 html,
 body {
-  height: 100%;
+  height: 100% !important;
 }
 
 /* Set core root defaults */
@@ -41,7 +41,8 @@ a:not([class]) {
 
 /* Make images easier to work with */
 img,
-picture {
+picture,
+svg {
   max-width: 100%;
   display: block;
 }
